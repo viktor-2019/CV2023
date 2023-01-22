@@ -1,0 +1,117 @@
+.left-bar {
+    background-color: rgb(66, 62, 95);
+}
+.inter-left {
+  
+    padding-left: 1.0em;
+    padding-top: 1.6em;
+    line-height: 1.2em;
+    color: #fff;
+    font: 400 2.1em  Orbitron, san-serif;
+    letter-spacing: 0.2em;
+    line-height: 120%;
+}
+
+.left-bar .blue {
+    font: 600 .5em Orbitron, san-serif; 
+    color: rgb(122, 158, 225);
+    display: block;
+    margin-top: 2.6em; 
+    line-height: 120%;
+}
+.items {
+    margin-top: 2em;
+    height: 4em;
+    padding-top: 1.25em;
+    padding-left: 2.1em;
+    font: 700 1em Orbitron, san-serif; 
+    background-color: rgb(70, 71, 113);
+    color: #fff;
+    letter-spacing: 0.2em;
+    line-height: 200%;
+}
+
+.right-bar {
+    
+    background-color: #fdfdfd;
+    min-height: 300px;
+    font-size: 115%;
+    border: 2px solid rgb(66, 62 ,95);   
+}
+.info {
+    color: rgba(221, 221, 255, 1);
+    font: 400 .7em Orbitron, san-serif;
+    letter-spacing: 0.2em;
+    line-height: 120%;
+    text-decoration: none;
+    margin-left: 2em;
+}
+.info li {
+    padding-left: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    position: relative;
+}
+
+li  span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    text-align: right;
+}
+.white {
+    color: white;
+    font: 600 1.2em Orbitron, san-serif;   
+}
+p>a {
+    color: rgba(231, 231, 255, 1) ;
+}
+
+p>a:hover {
+    color: #fff;
+}
+
+.box-english {
+    position: relative;
+    min-height: 1em;
+    background-color:rgb(122, 158, 225); 
+    margin-top: -1em;
+    border-radius: .3em;
+    
+}
+.persent-english {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-height: 1em;
+    border-top-right-radius:.3em;
+    border-bottom-right-radius:.3em;
+    width: 30%;
+    background-color:  rgb(70, 71, 113);
+    
+}
+.paragrafs-name {
+    color: #555;
+    font: 400 1.2em Orbitron, san-serif; 
+    letter-spacing: 0.2em;
+    line-height: 120%;
+}
+.text-style {
+    color: #888;
+    font-size: .8em;
+    line-height: 1.2em;
+}
+.line-blue {
+    min-height: 2px;
+    width: 100%;
+    display:block;
+    background-color:  rgb(122, 158, 225);
+}
+.company-name {
+    font-size: 1.4em;
+}
+.position-name {
+    font-size: 1.1em;
+    color: rgb(122, 158, 225);
+}
